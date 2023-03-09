@@ -7,6 +7,11 @@
 * Use a 'custom' malloc function with NtAllocateVirtualMemoy
 * Works for both x86 (WoW64) & x64
 
+Thx to :
+
+* Sektor7 for custom GetProcAddress (Sektor7 Malware Development Intermediate Section 2. PE madness)
+* @arbiter34 for strings handling : [github](https://github.com/arbiter34/GetProcAddress/blob/master/GetProcAddress/GetProcAddress.cpp)
+
 ![64](https://user-images.githubusercontent.com/42241901/224010127-2fdfd26c-e6bc-40f3-af19-27a671924a5c.png)
 
 ![86](https://user-images.githubusercontent.com/42241901/224010134-77ee865a-f5db-4519-9fe9-a79c8db30b9d.png)
